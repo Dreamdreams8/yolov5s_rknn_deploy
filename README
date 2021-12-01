@@ -1,6 +1,7 @@
 yolov5s在终端布署上效果还可以，本项目主要达成以下功能：将yolov5s.pt转成yolov5s.onnx，将yolov5s.onnx转成yolov5s.rknn，将yolov5s.rknn部署到rk3399或其他芯片的板子上。
 项目地址如下：
 https://gitee.com/Dreamdreams8/yolov5s_rknn_deploy/
+https://github.com/Dreamdreams8/yolov5s_rknn_deploy
 1、下载第三方库opencv：
 链接：https://pan.baidu.com/s/1CvXOsnHHaZzxcMh_-x5Ffg 提取码：qkr7
 将3rdparty_yolov5s_rknn_deploy/rknn_to_deploy_3rdparty/opencv放到rknn_to_deploy/examples/3rdparty/中
